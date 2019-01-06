@@ -27,7 +27,7 @@ public class NewTest {
   public void test_2() 
   {
 	  
-	  System.setProperty ("webdriver.chrome.driver" , "C://Automation/Selenium Driver/chromedriver.exe");
+	  System.setProperty ("webdriver.chrome.driver" , "C://QA/Automation/Selenium Driver/chromedriver.exe");
 	  WebDriver driver = new ChromeDriver();
 	  driver.get("https://www.google.com/");
 	  driver.manage().window().setSize(new Dimension(1366, 768));
@@ -44,7 +44,7 @@ public class NewTest {
   public void test_3() 
   {
 	  
-	  System.setProperty ("webdriver.chrome.driver" , "C://Automation/Selenium Driver/chromedriver.exe");
+	  System.setProperty ("webdriver.chrome.driver" , "C://QA/Automation/Selenium Driver/chromedriver.exe");
 	  WebDriver driver = new ChromeDriver();
 	  driver.get("https://www.google.com/");
 	  driver.manage().window().setSize(new Dimension(1366, 768));
@@ -60,7 +60,7 @@ public class NewTest {
   public void test_4() 
   {
 	  
-	  System.setProperty ("webdriver.chrome.driver" , "C://Automation/Selenium Driver/chromedriver.exe");
+	  System.setProperty ("webdriver.chrome.driver" , "C://QA/Automation/Selenium Driver/chromedriver.exe");
 	  WebDriver driver = new ChromeDriver();
 	  driver.get("https://www.google.com/");
 	  driver.manage().window().setSize(new Dimension(1366, 768));
@@ -76,7 +76,7 @@ public class NewTest {
   public void test_5() 
   {
 	  
-	  System.setProperty ("webdriver.chrome.driver" , "C://Automation/Selenium Driver/chromedriver.exe");
+	  System.setProperty ("webdriver.chrome.driver" , "C://QA/Automation/Selenium Driver/chromedriver.exe");
 	  WebDriver driver = new ChromeDriver();
 	  driver.get("https://www.google.com/");
 	  driver.manage().window().setSize(new Dimension(1366, 768));
